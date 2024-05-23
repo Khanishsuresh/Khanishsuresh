@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khanish Ram S</h1>
 <h3 align="center">A passionate developer with interests in Data Science , Data Analysis , Statistics</h3>
 
-<img align="right" alt="coding" width="400" height="300" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif" style="border-radius:8px;"/> 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif" style="border-radius:8px;"/> 
 
 - 🌱 I’m currently learning **Advanced Data Structures, React.js, and Deep Learning**
 
